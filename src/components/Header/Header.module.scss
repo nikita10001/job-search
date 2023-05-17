@@ -1,0 +1,16 @@
+.header {
+  background-color: #fff;
+  margin: 0px 0px 40px 0px;
+}
+.headerContainer {
+  min-height: 84px;
+  display: flex;
+  align-items: center;
+}
+.menu {
+  margin: 0px 0px 0px 280px;
+}
+.menu ul {
+  display: flex;
+  column-gap: 60px;
+}
